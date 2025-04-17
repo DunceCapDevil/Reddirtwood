@@ -7,7 +7,7 @@ export function FeaturedProduct() {
   return (
     <section 
       className="py-16 bg-cover bg-center relative opacity-0 transform translate-y-5 transition-all duration-700" 
-      style={{ backgroundImage: "url('https://images.unsplash.com/photo-1566312916041-dd1ac7e614e6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80')" }}
+      style={{ backgroundImage: "url('https://unsplash.com/photos/a-body-of-water-with-trees-in-the-background-D-itTWtJIfE')" }}
       ref={ref}
     >
       <div className="absolute inset-0 bg-[hsl(var(--charcoal))/60]"></div>
@@ -23,7 +23,7 @@ export function FeaturedProduct() {
         <div className="md:grid md:grid-cols-2 md:gap-12 items-center">
           <div className="mb-8 md:mb-0">
             <img 
-              src="https://images.unsplash.com/photo-1506365069540-904bcc762636?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+              src="https://unsplash.com/photos/brown-wood-log-lot-6yelWDI3RE8" 
               alt="Osage Orange Bow Stave" 
               className="rounded-lg shadow-2xl object-cover h-96 w-full" 
             />
