@@ -7,7 +7,7 @@ export function FeaturedProduct() {
   return (
     <section 
       className="py-16 bg-cover bg-center relative opacity-0 transform translate-y-5 transition-all duration-700" 
-      style={{ backgroundImage: "url('https://unsplash.com/photos/a-body-of-water-with-trees-in-the-background-D-itTWtJIfE')" }}
+      style={{ backgroundImage: "url('https://images.unsplash.com/photo-1610459716431-e07abffa9c91?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80')" }}
       ref={ref}
     >
       <div className="absolute inset-0 bg-[hsl(var(--charcoal))/60]"></div>
