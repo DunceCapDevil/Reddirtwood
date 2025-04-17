@@ -14,7 +14,7 @@ export function About() {
         <div className="lg:grid lg:grid-cols-2 lg:gap-16 items-center">
           <div className="mb-12 lg:mb-0">
             <img 
-              src="https://images.unsplash.com/photo-1614632537423-1e6c2e7e0aab?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+              src="https://images.unsplash.com/photo-1559825481-12a05cc00344?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
               alt="Craftsman working with wood" 
               className="rounded-lg shadow-xl object-cover h-96 w-full" 
             />
