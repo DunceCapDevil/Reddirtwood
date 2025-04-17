@@ -3,19 +3,19 @@ export const products = [
     name: "Osage Bow Stave",
     description: "Expertly selected and aged osage orange wood, perfect for traditional bow making.",
     price: "$89.99",
-    image: "https://images.unsplash.com/photo-1547648223-c0801be715af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    image: "https://images.unsplash.com/photo-1578586524259-489a03961e3a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
   },
   {
     name: "Handcarved Walking Stick",
     description: "Sturdy and beautifully carved walking sticks made from locally sourced hardwoods.",
     price: "$59.99",
-    image: "https://images.unsplash.com/photo-1601758064955-a3a2487de3b0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    image: "https://images.unsplash.com/photo-1473297694703-c2945dfdc667?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
   },
   {
     name: "Wooden Bowl Set",
     description: "Hand-turned wooden bowls, perfect for serving or as a decorative piece for your home.",
     price: "$75.99",
-    image: "https://images.unsplash.com/photo-1579123339332-e27c9355b6c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    image: "https://images.unsplash.com/photo-1578584099737-2c8b8afd00a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
   }
 ];
 
