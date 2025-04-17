@@ -23,7 +23,7 @@ export function FeaturedProduct() {
         <div className="md:grid md:grid-cols-2 md:gap-12 items-center">
           <div className="mb-8 md:mb-0">
             <img 
-              src="https://images.unsplash.com/photo-1506365069540-904bcc762636?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+              src="https://images.unsplash.com/photo-1547648223-c0801be715af?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
               alt="Osage Orange Bow Stave" 
               className="rounded-lg shadow-2xl object-cover h-96 w-full" 
             />
