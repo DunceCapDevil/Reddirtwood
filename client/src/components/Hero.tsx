@@ -48,7 +48,7 @@ export function Hero() {
             }`}
             style={{ transitionDelay: '900ms' }}
           >
-            Explore Our Crafts
+            Explore Our Treasures
           </a>
         </div>
       </div>
